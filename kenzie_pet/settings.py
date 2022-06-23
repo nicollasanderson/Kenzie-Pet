@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'animals',
     'characteristics',
     'groups',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
